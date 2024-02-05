@@ -47,3 +47,8 @@ This is one way to run your app — you can also run it directly from within And
 Below is the ScreenShot of the Project
 ![Screenshot (4)](https://github.com/Rnzeet/User-Directory-App/assets/63356893/0139fd37-81cb-4d1e-a562-bb80de991a80)
 
+![Screenshot (5)](https://github.com/Rnzeet/User-Directory-App/assets/63356893/d4ef2b9f-9ac8-41a6-88d1-2fedfe66582a)
+
+![Screenshot (6)](https://github.com/Rnzeet/User-Directory-App/assets/63356893/63113159-a4fe-45f9-805e-d569a9cd4b21)
+
+
